@@ -19,7 +19,7 @@ class EditNotViewBody extends StatelessWidget {
             icon: Icons.check,
           ),
           SizedBox(
-            height: 20,
+            height: 50,
           ),
           CustomTextFiled(
             hint: 'Title',
